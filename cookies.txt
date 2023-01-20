@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ellipse-glockenspiel-8wf8.squarespace.com	TRUE	/	FALSE	1999999999	crumb	BRQ7DCU+YjCsZWY0MGJkMmM2NDM0MDBiZDYyMTk3NTNlNjg0OGQ1
+

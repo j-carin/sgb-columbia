@@ -1,0 +1,12 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 20 Jan 2023 22:36:47 at https://ellipse-glockenspiel-8wf8.squarespace.com/
+(winhttrack https://ellipse-glockenspiel-8wf8.squarespace.com/ -O "/home/jer/websites/sgb" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:36:58	Error: 	"Bad Request" (400) at link https://ellipse-glockenspiel-8wf8.squarespace.com/"https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=tteaso2ecatgrt54sie78grr3c%40group.calendar.google.com&amp;color=%230F4B38&amp;ctz=America%2FNew_York\%22 (from https://ellipse-glockenspiel-8wf8.squarespace.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 10 links scanned, 8 files written (2076802 bytes overall) [264750 bytes received at 24068 bytes/sec], 2077146 bytes transferred using HTTP compression in 9 files, ratio 8%
+(1 errors, 0 warnings, 0 messages)
